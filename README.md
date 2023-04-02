@@ -1,2 +1,2 @@
 # MVVMTest
-Project to test MVVM
+Project to test MVVM Light library
